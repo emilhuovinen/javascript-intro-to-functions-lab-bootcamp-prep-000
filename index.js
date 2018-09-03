@@ -11,3 +11,4 @@ function logWhisper(string) {
 }
 
 whisper(HELLO);
+logWhisper(Hello);
