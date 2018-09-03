@@ -27,7 +27,7 @@ function sayHiToGrandma(string) {
   }
 }
 
-whisper(HELLO);
+whisper(Hello!);
 logShout(hello);
 logWhisper(Hello);
 sayHiToGrandma("HELLO!")
