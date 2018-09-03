@@ -29,4 +29,4 @@ shout("Hello!")
 whisper("Hello!");
 logShout("Hello!");
 logWhisper("Hello!");
-sayHiToGrandma("hello")
+sayHiToGrandma("hello!")
